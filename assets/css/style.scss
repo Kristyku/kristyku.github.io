@@ -1,0 +1,25 @@
+---
+# Only required for Jekyll to process this as SCSS
+---
+
+@import "jekyll-theme-dinky";
+
+/* Custom overrides */
+
+/* Hide the theme footer */
+footer,
+.site-footer {
+  display: none !important;
+}
+
+.wrapper {
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper section {
+  max-width: 1030px;
+  margin-left: auto;
+  margin-right: auto;
+}
