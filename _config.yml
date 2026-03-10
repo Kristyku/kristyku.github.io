@@ -1,0 +1,15 @@
+# Jekyll configuration for GitHub Pages
+# Using the Dinky theme: https://github.com/pages-themes/dinky
+
+title: Kristy Aurelia's Github Page
+
+theme: jekyll-theme-dinky
+
+# Optional site settings
+# baseurl: ""  # the subpath of your site, e.g. "/blog"
+# url: "https://kristyku.github.io"  # the base hostname & protocol for your site
+
+# Exclude files from the site build
+exclude:
+  - "README.md"
+  - "LICENSE"
